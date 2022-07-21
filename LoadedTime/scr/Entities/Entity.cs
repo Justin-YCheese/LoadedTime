@@ -7,8 +7,8 @@ public class Entity : KinematicBody2D
 {
     public Vector2 velocity = Vector2.Zero;
     
-    [Export]
-    public int moveSpeed;
+    // [Export]
+    // public int moveSpeed;
     [Export]
     public int gravity;
 
