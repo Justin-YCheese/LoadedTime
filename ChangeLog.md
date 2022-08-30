@@ -14,3 +14,5 @@ This document tracks all notables changes of Loaded Time.
 ### Fixed
 
 ### Deprecated
+
+- RollingDuration timer and GlidingDuration timer are removed (now use AnimationPlayer as timer)
